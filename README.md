@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zira-el" alt="zira-el" /></a> </p>
 
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="30"> Em corrente de **transição** da Engenharia Elétrica para o mundo do Desenvolvimento.
+
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30"> Atualmente estou estudando **JavaScript, ReactJS, NodeJS e PostegreSQL**
 
-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30"> E tenho conhecimento em algumas libs como **Express, JWT, React-router-dom entre outras.**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30"> E tenho conhecimento em algumas libs como **Express, JWT, React-router-dom entre outras.**
+
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30"> Tenho formação como **Desenvolvedor Web Full-Stack**, curso ministrado pela Cubos Academy com duração de **750 horas**.
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"> Pergunte-me como **conseguir algum troféu nos videos games.**
 

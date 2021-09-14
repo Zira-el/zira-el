@@ -1,19 +1,17 @@
-<h1 align="center">Olá 👋, Eu sou Newton Menezes</h1>
+<h1 align="center">Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30">, Eu sou Newton Menezes</h1>
 <h3 align="center">Um desenvolvedor Full-stack do Brasil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zira-el&label=Profile%20views&color=0e75b6&style=plastic" alt="zira-el" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zira-el" alt="zira-el" /></a> </p>
 
-- 🔭 No momento estou trabalhando numa aplicação de [Pokedex](https://github.com/Zira-el/pokedex)
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="30"> Atualmente estou estudando **JavaScript, ReactJS, NodeJS e PostegreSQL**
 
-- 🌱 Atualmente estou estudando **JavaScript, ReactJS, NodeJS e PostegreSQL**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30"> E tenho conhecimento em algumas libs como **Express, JWT, React-router-dom entre outras.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Zira-el](https://github.com/Zira-el)
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"> Pergunte-me como **conseguir algum troféu nos videos games.**
 
-- 💬 E tenho conhecimento em algumas libs como **Express, JWT, React-router-dom entre outras.**
-
-- 📫 Você pode falar comigo no **niltonmenezes@live.com**
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30">  Você pode falar comigo no **niltonmenezes@live.com**
 
 <h3 align="left">Minhas redes:</h3>
 <p align="left">
@@ -28,5 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zira-el&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="zira-el" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zira-el&" alt="zira-el" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zira-el&" alt="zira-el" ></p>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif"> 

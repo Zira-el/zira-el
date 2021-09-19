@@ -13,6 +13,8 @@
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30"> Tenho formação como **Desenvolvedor Web Full-Stack**, curso ministrado pela Cubos Academy com duração de **750 horas**.
 
+- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="30"> Tenho vontade de aprender **Desenvolvimento mobile e a tirar música de ouvido**.
+
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="30"> Pergunte-me como **conseguir algum troféu nos videos games.**
 
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30">  Você pode falar comigo no **niltonmenezes@live.com**
